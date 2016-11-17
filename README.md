@@ -92,14 +92,33 @@ $ sudo apt-get install jstest-gtk
 $ jstest-gtk
 ```
 You should get something like: 
-Logitech Driving Force Pro
-Device: /dev/input/js0
-Axis 0: -32179-+32767
-Axis 1: -32767-+32767 Gas Padel
-Axis 2: -32767-+32767 Break Padel
-Axis 3: -32767-+32767 Wheel control left to Right
-Axis 4: -32767-+32767 Wheel control up and down
+* Logitech Logitech Driving Force Pro
+* Device: /dev/input/js0
+* Axes: 5
+* Buttons: 14
 
+Axis list: 
+* Axis 0: -32179-+32767 # Main Wheel, can set range up to 900 degrees from end to end
+* Axis 1: -32767-+32767 # Gas Padel
+* Axis 2: -32767-+32767 # Break Padel
+* Axis 3: -32767-+32767 # Wheel control left to Right
+* Axis 4: -32767-+32767 # Wheel control up and down
+
+The Buttons Map:
+* Button 0  Cross  
+* Button 1  Square
+* Button 2  Circle
+* Button 3  Triangle
+* Button 4  Shift/turn Right
+* Button 5  Shift/turn Left
+* Button 6  R2
+* Button 7  L2 
+* Button 8  Select
+* Button 9  Start
+* Button 10 R3 
+* Button 11 L3
+* Button 12 Shift gear plus
+* Button 13 Shift gear minus
 
 Add UDEV rule
 
