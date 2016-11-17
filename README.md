@@ -100,7 +100,7 @@ You should get something like:
 Axis list: 
 * Axis 0: -32179-+32767 # Main Wheel, can set range up to 900 degrees from end to end
 * Axis 1: -32767-+32767 # Gas Padel
-* Axis 2: -32767-+32767 # Break Padel
+* Axis 2: -32767-+32767 # Brake Padel
 * Axis 3: -32767-+32767 # Wheel control left to Right
 * Axis 4: -32767-+32767 # Wheel control up and down
 
