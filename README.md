@@ -1,7 +1,7 @@
 # Driving-Force-Pro
 How to install Logitech Driving Force Pro Wheel on Linux Ubuntu 14.04
 
-So far, the [LTWheelConf]() maybe is the best solution to get following wheels working on Linux:
+So far, the [LTWheelConf](https://github.com/TripleSpeeder/LTWheelConf) maybe is the best solution to get following wheels working on Linux:
   Driving Force
   Momo Racing
   Momo Force
